@@ -1,0 +1,2 @@
+$('.contactmenu').toggle();
+$('.accountmenu').toggle();

@@ -1,0 +1,47 @@
+<div class="navbar">
+	<div class="navbar-inner">
+		<div class="container">
+			<ul class="nav">
+				<a class="brand" href="#">w3resources</a>
+				<li class="active">
+					<a href="#"><i class="icon-home"> Home</i></a>
+				</li>
+				<li>
+					<a href="#">Blog</a>
+				</li>
+				<li>
+					<a href="#">About</a>
+				</li>
+				<li class="dropdown" id="contactmenu">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Contact <i class="icon-chevron-down"></i></a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="#">Email</a>
+						</li>
+						<li>
+							<a href="#">Skype</a>
+						</li>
+					</ul>
+				</li>
+				<li class="dropdown" id="accountmenu">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Tutorial <i class="icon-chevron-down"></i></a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="#">PHP</a>
+						</li>
+						<li>
+							<a href="#">MySQL</a>
+						</li>
+						<li class="divider"></li>
+						<li>
+							<a href="#">JavaScript</a>
+						</li>
+						<li>
+							<a href="#">HTML5</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
